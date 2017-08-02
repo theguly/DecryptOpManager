@@ -1,4 +1,4 @@
-Credential decrypter for ManageEngine OpManager version 11.x
+Credential decrypter for ManageEngine OpManager version 11.x and 12.2
 Tested on Free and Essential version
 
 Abusing some SQL Injection on OpManager, is it possible to dump the
