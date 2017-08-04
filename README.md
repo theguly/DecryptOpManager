@@ -13,6 +13,8 @@ on every (tested) installation.
 
 Notified to the vendor the 7th of April 2015, no fix nor workaround yet.
 
+Assigned CVE-2015-9107
+
 Usage:
 
 $ javac DecryptOpManager
